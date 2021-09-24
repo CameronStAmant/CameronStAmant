@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I’m a self-taught software engineer who has learned full stack development through countless hours of building and refactoring. I’ve got a few dozen projects that have only gotten more complex as I’ve grown in my abilities, so be sure to check those out along with my favorites below.
+I'm Cameron, a Software Engineer who, after over a year of study, is ready to contribute to the world. I have always had an interest in technology, but it wasn't until I discovered programming that I found my passion. Going from nothing to full stack knowledge has been an exciting journey, one that is only just beginning.
