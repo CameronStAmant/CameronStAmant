@@ -1,1 +1,1 @@
-I'm Cameron, a self-taught Junior Front End Developer.
+I'm Cameron, a self-taught developer currently working as a Junior Front End Developer.
